@@ -1,5 +1,5 @@
 //
-//  DMBViewController.h
+//  DMBTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by David Blanck on 3/8/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface DMBViewController : UIViewController
+@interface DMBTableViewController : UITableViewController
 
 @end
